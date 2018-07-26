@@ -1,0 +1,29 @@
+{
+  "groups": {
+    "default": {
+      "packages": [
+        "guest/webservices/rest-client/rest-client/package.json",
+        "jhipster/jhipster-microservice/car-app/package.json",
+        "jhipster/jhipster-microservice/dealer-app/package.json",
+        "jhipster/jhipster-microservice/gateway-app/package.json",
+        "jhipster/jhipster-microservice/gateway-app/src/main/webapp/bower_components/angular-aria/package.json",
+        "jhipster/jhipster-microservice/gateway-app/src/main/webapp/bower_components/angular-bootstrap/package.json",
+        "jhipster/jhipster-microservice/gateway-app/src/main/webapp/bower_components/angular-cache-buster/package.json",
+        "jhipster/jhipster-microservice/gateway-app/src/main/webapp/bower_components/angular-cookies/package.json",
+        "jhipster/jhipster-microservice/gateway-app/src/main/webapp/bower_components/angular-loading-bar/package.json",
+        "jhipster/jhipster-microservice/gateway-app/src/main/webapp/bower_components/angular-mocks/package.json",
+        "jhipster/jhipster-microservice/gateway-app/src/main/webapp/bower_components/angular-resource/package.json",
+        "jhipster/jhipster-microservice/gateway-app/src/main/webapp/bower_components/angular-sanitize/package.json",
+        "jhipster/jhipster-microservice/gateway-app/src/main/webapp/bower_components/angular/package.json",
+        "jhipster/jhipster-microservice/gateway-app/src/main/webapp/bower_components/bootstrap/package.json",
+        "jhipster/jhipster-microservice/gateway-app/src/main/webapp/bower_components/modernizr/package.json",
+        "jhipster/jhipster-microservice/gateway-app/src/main/webapp/bower_components/ngInfiniteScroll/package.json",
+        "jhipster/jhipster-microservice/gateway-app/src/main/webapp/bower_components/swagger-ui/package.json",
+        "jhipster/jhipster-monolithic/package.json",
+        "json/src/main/webapp/package.json",
+        "kotlin-js/package.json",
+        "spring-cloud/spring-cloud-bootstrap/gateway/src/main/angular/ui/package.json"
+      ]
+    }
+  }
+}
